@@ -12,7 +12,7 @@
 		<id>tag:mail.google.com,2008:filter:1526867906796</id>
 		<updated>2018-05-21T01:58:45Z</updated>
 		<content></content>
-		<apps:property name='hasTheWord' value='&quot;END CASTING NOTICE&quot; AND &quot;Extras Alerts Pro&quot;'/>
+		<apps:property name='hasTheWord' value='&quot;END CASTING NOTICE&quot; AND &quot;Extras Alerts&quot;'/>
 		<apps:property name='doesNotHaveTheWord' value='&quot;A60S&quot; OR &quot;A70S&quot;'/>
 		<apps:property name='shouldTrash' value='true'/>
 		<apps:property name='shouldNeverSpam' value='true'/>

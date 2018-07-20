@@ -12,7 +12,7 @@
 		<id>tag:mail.google.com,2008:filter:1526859110179</id>
 		<updated>2018-05-21T01:06:59Z</updated>
 		<content></content>
-		<apps:property name='hasTheWord' value='&quot;Extras Alerts Pro&quot;'/>
+		<apps:property name='hasTheWord' value='&quot;Extras Alerts&quot;'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='sizeOperator' value='s_sl'/>
 		<apps:property name='sizeUnit' value='s_smb'/>
